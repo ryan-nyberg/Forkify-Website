@@ -25,12 +25,12 @@ Check out the live demo of Forkify here: [Live Demo on Netlify](https://forkify-
 **Website Screenshots:**
 
 - **Main Page:**  
-  ![Main Page](https://yourimagehost.com/mainpage.jpg)  
-  *A screenshot showing the homepage where users can search for recipes.*
+  ![Main Page](images/ex1.PNG)  
+  *Homepage where users can search for recipes.*
 
 - **Adding a Recipe:**  
-  ![Add Recipe](https://yourimagehost.com/addrecipe.jpg)  
-  *A screenshot showing the page where users can add their own recipes.*
+  ![Add Recipe](images/ex2.PNG)  
+  *Page where users can add their own recipes.*
 
 ## How to Run Locally ⚙️
 
