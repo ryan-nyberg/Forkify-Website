@@ -39,7 +39,7 @@ To run **Forkify** locally on your machine, follow these steps:
 
 1. Clone the repository:
    
-   `git clone https://github.com/ryan-nyberg/forkify-course-web.git`
+   `git clone https://github.com/ryan-nyberg/Forkify-Website.git`
 
 3. Install dependencies:
 
