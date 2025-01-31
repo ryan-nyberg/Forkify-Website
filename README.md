@@ -42,8 +42,6 @@ To run **Forkify** locally on your machine, follow these steps:
    `git clone https://github.com/ryan-nyberg/Forkify-Website.git`
 
 3. Install dependencies:
-
-   `cd forkify`
    
    `npm install`
 
