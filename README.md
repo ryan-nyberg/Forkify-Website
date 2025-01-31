@@ -1,4 +1,4 @@
-# Forkify - Recipe Finder and Bookmarking Website 🍲
+# Forkify - Explore, Save, and Add Recipes 🍕
 
 Forkify is a web app where you can search for recipes, add your own recipes, and bookmark your favorites! You can also view saved bookmarks, browse through multiple pages of search results, and adjust the number of servings, which updates the ingredient quantities automatically.
 
@@ -13,7 +13,7 @@ Forkify is a web app where you can search for recipes, add your own recipes, and
 
 ## Tech Stack 🖥️
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: HTML5, SCSS, JavaScript (ES6+)
 - **Backend**: None (Static website)
 - **Libraries**: Parcel for bundling
 - **Node.js**: Used for development tools and running the app locally
